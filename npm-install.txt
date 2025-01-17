@@ -1,0 +1,10 @@
+step 1 : install packet json node js
+#npm init -y or npm init ( for install packet .json file)
+
+step 2 : create main file js (index.js)
+step 3 : define module in package > type: "module"
+
+step 4 : install nodemon help for restart server 
+        #npm i nodemon or npm install nodemon
+
+
